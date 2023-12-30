@@ -1,0 +1,13 @@
+[
+  {
+    "role": "Développeur Web full stack",
+    "organisation": "wild code school",
+    "startDate": "9/09/2023",
+    "endDate": "9/02/2024",
+    "experiences": ["travail en equipe,",
+                    "gestion de l'avancement",
+                    "programmation react,NodeJS"],
+    "imageSrc": "history/google.png"
+  }
+  
+]
