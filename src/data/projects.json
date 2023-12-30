@@ -4,7 +4,7 @@
     "imageSrc": "projects/logo_obscurias.png",
     "description": "Il s'agit d'un projet de site de cinéma revisité.J'ai commencer par  mettre en place la base de donnée SQL,avec les route back-end et front-end.J'ai filtrés sur la route du back-end pour évite de devoir charger toutes les données.Je vous invite à visité le site. ",
     "skills": ["React", "Express", "Node","CSS"],
-    "demo": "https://www.example.com",
+    "demo": "https://obscuria.remote-fr-3.wilders.dev/",
     "source": "https://github.com/sebastienbaquet/JS-RMT-React_If-Projet2-Obscuria"
   },
   {
@@ -12,7 +12,7 @@
     "imageSrc": "projects/marguerite_santa.png",
     "description": "C'est un jeu ou le pére noel dois évité les cheminées tout en attrapent les cadeaux,projet qui à était réaliser pendant un hakaton de 48heures.",
     "skills": ["React", "Express", "Node", "CSS"],
-    "demo": "https://www.example.com",
+    "demo": "https://marguerite-santa.vercel.app/",
     "source": "https://github.com/OlvMrn/Marguerite_Santa"
   },
   {
