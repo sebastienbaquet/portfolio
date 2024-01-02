@@ -10,7 +10,7 @@
   {
     "title": "Project Gifts run",
     "imageSrc": "projects/marguerite_santa.png",
-    "description": "C'est un jeu ou le pére noel dois évité les cheminées tout en attrapent les cadeaux,projet qui à était réaliser pendant un hakaton de 48heures.",
+    "description": "C'est un jeu ou le pére Noel dois évité les cheminées tout en attrapant les cadeaux,projet qui a était réalisé pendant un hakaton de 48heures.",
     "skills": ["React", "Express", "Node", "CSS"],
     "demo": "https://marguerite-santa.vercel.app/",
     "source": "https://github.com/OlvMrn/Marguerite_Santa"

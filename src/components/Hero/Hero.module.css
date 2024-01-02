@@ -110,3 +110,17 @@
     align-items: center;
   }
 }
+
+@media screen and (max-width: 1600px) {
+
+.heroImg {
+  width: 30%;
+  z-index: 1;
+  border-radius: 150px;
+
+  animation-name: floating;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+}
+}
