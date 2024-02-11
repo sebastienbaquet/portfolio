@@ -18,7 +18,7 @@
   {
     "title": "Project greenDrive ",
     "imageSrc": "projects/greendrive.png",
-    "description": "Application borne de recharge avec sa partie administration et client",
+    "description": "Application borne de recharge avec sa partie administration et client, à vous de jouer ",
     "skills": ["React", "Express", "Node","CSS"],
     "demo": "https://geocode.remote-fr-3.wilders.dev/",
     "source": "https://github.com/WildCodeSchool-2023-09/JS-RMT-React_If-Projet3-GeoCode"
