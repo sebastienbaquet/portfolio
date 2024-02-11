@@ -38,7 +38,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>UI designe</h3>
               <p>
-             Conception de la maquette sur figma et mis en  production du figma.
+             Conception de la maquette sur figma est mise en  production du figma.
               </p>
             </div>
           </li>
